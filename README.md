@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sudhari.yhr.mail@gmail.com**
 
-- ⚡ Fun fact **My perfect day would start with driving🏎️**
+- ⚡ Fun fact **Relax, we're all crazy😏😏.. It's not a Competition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
