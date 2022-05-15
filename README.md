@@ -24,6 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhariperera&show_icons=true&locale=en&layout=compact" alt="sudhariperera" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhariperera)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhariperera&theme=juicyfresh&no-frame=true&row=1" alt="sudhariperera" /></a> </p>
