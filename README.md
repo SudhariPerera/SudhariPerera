@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudhari Sandamini</h1>
-<h3 align="center">Undergraduate in SLIIT</h3>
 
 
 
-- 🌱 I’m currently learning **Software Engineering @SLIIT**
+- 🌱 I’m currently learning **Graduate Diploma @WelTec**
 
 - 👨‍💻 All of my projects are available at [https://sudhari.web.app](https://sudhari.web.app)
 
