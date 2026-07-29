@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
@@ -112,10 +112,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
@@ -129,7 +125,7 @@
   </a>
 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="AdobeXD" width="40" height="40"/>
   </a>
 
   <a href="https://aframe.io/" target="_blank" rel="noreferrer">
@@ -145,7 +141,7 @@
   </a>
 
   <a href="https://www.marvelousdesigner.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/marvelousdesigner" alt="Marvelous Designer" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/marvelousdesigner" alt="MarvelousDesigner" width="40" height="40"/>
   </a>
 </p>
 
