@@ -125,7 +125,7 @@
   </a>
 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="AdobeXD" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="Adobe XD" width="40" height="40"/>
   </a>
 
   <a href="https://aframe.io/" target="_blank" rel="noreferrer">
