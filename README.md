@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sudhari.web.app](https://sudhari.web.app)
 
-- 📫 How to reach me **sudhari.yhr.mail@gmail.com**
+- 📫 How to reach me **sudhari08sudh@gmail.com**
 
 - ⚡ Fun fact **Relax, we're all crazy😏😏.. It's not a Competition**
 
