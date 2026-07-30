@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhari Sandamini</h1>
 
-## 👋 About Me
+## About Me
 
 I'm a Graduate Diploma in Information Technology student at WelTec, New Zealand, with a passion for full-stack development, cybersecurity, and immersive technologies. I enjoy building practical software solutions using modern web technologies and continuously expanding my skills through academic and personal projects.
 
