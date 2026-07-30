@@ -22,7 +22,7 @@ I'm a Graduate Diploma in Information Technology student at WelTec, New Zealand,
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages:</h3>
+<h4 align="left">Languages:</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -58,7 +58,7 @@ I'm a Graduate Diploma in Information Technology student at WelTec, New Zealand,
 </p>
 
 
-<h3 align="left">Frontend Development:</h3>
+<h4 align="left">Frontend Development:</h4>
 <p align="left">
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -80,7 +80,7 @@ I'm a Graduate Diploma in Information Technology student at WelTec, New Zealand,
 </p>
 
 
-<h3 align="left">Backend Development:</h3>
+<h4 align="left">Backend Development:</h4>
 <p align="left">
 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -98,7 +98,7 @@ I'm a Graduate Diploma in Information Technology student at WelTec, New Zealand,
 </p>
 
 
-<h3 align="left">Databases:</h3>
+<h4 align="left">Databases:</h4>
 <p align="left">
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -120,7 +120,7 @@ I'm a Graduate Diploma in Information Technology student at WelTec, New Zealand,
 </p>
 
 
-<h3 align="left">Tools & Technologies:</h3>
+<h4 align="left">Tools & Technologies:</h4>
 <p align="left">
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -159,7 +159,3 @@ I'm a Graduate Diploma in Information Technology student at WelTec, New Zealand,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Kali Linux" width="40" height="40"/>
   </a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudhariperera&show_icons=true&theme=transparent" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhariperera&theme=transparent" />
